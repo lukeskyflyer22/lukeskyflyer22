@@ -1,6 +1,5 @@
 ## Hi theree 
 Wish you all a great day !
-Stay Focused everyone !
 
 <!--
 **lukeskyflyer22/lukeskyflyer22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
